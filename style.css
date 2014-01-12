@@ -1,7 +1,10 @@
+.parent {
+  display: table;
+}
+
 .child {
   display: table-cell;
-    width: 200px;
-    height: 150px;
+    
     text-align: center;
     vertical-align: middle;
     border: 1px dotted #656565;
