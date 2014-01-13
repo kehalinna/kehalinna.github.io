@@ -5,6 +5,7 @@ div {
     display: table;
 }
 h1 {
+    font-size: 200px;
     display: table-cell;
     vertical-align: middle;
     text-align:center;
